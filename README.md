@@ -6,9 +6,11 @@ Pre-requisites :
 
 Run the script in terminal by using one of the following command -
 
-$ python zipcracker.py
-$ python3 zipcracker.py
-$ ./zipcracker.py
+$ python ziprarcracker.py
+
+$ python3 ziprarcracker.py
+
+$ ./ziprarcracker.py
 
 
 Inputs :
